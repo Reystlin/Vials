@@ -1,0 +1,8 @@
+itemGroup.vials=Флаконы
+vials.CAPACITY=Емкость: %d мВ
+item.vials.vial_16.name=Маленький флакон
+item.vials.vial_144.name=Стандартный флакон
+item.vials.vial_288.name=Большой флакон
+item.vials.vial_432.name=Огромный флакон
+item.vials.vial_576.name=Гигантский флакон
+item.vials.vial_1296.name=Максимальный флакон
